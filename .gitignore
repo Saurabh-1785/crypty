@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Compiled binaries
+encrypt_decrypt
+cryption
+
+# Object files
+*.o
+
+# Environment file (contains encryption key — keep private)
+.env
